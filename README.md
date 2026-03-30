@@ -1,4 +1,4 @@
-# Open Source Audit of Git
+# The Open Source Audit
 **Course:** Open Source Software (OSS) | **Capstone Project**
 
 ## 1. Student Details
